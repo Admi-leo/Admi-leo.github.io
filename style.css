@@ -139,6 +139,11 @@ button {
   color: #454545;
 }
 
+.logo {
+  text-transform: uppercase;
+  font-size: 26px;
+}
+
 .about-me {
   display: flex;
 }
@@ -186,7 +191,7 @@ button {
   max-width: 230px;
 }
 .my-skills__block__img {
-  margin-bottom: 28px;
+  margin-bottom: 12px;
 }
 .my-skills__block__heading {
   margin-bottom: 8px;
@@ -213,7 +218,7 @@ button {
 
 .contacts {
   padding: 30px 0;
-  background: url(./img/subscribe-bg.png);
+  background: url(./img/f-bg.jpg);
   text-align: center;
   display: flex;
   flex-direction: column;
